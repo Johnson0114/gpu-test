@@ -1,0 +1,5 @@
+{
+  "name": "GPU Inferno - Ultimate Stress Test",
+  "description": "A high-intensity GPU benchmark designed to outperform standard web tests. Features massive instanced geometry, dynamic lighting, real-time physics simulation, and expensive post-processing effects (SSAO, Bloom, DOF) to push WebGL limits.",
+  "requestFramePermissions": []
+}
